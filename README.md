@@ -1,5 +1,4 @@
-EXIF Data Extractor and Converter
-This repository contains three PowerShell scripts that can be used to extract EXIF data from pictures, convert it to a human-readable format, and display it.
+Script to extract EXIF and show human-readable format
 
 ExtractAndConvert.ps1
 The ExtractAndConvert.ps1 script extracts EXIF data from all pictures in a specified directory and saves it as CSV text to a file.
